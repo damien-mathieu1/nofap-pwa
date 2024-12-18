@@ -20,7 +20,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-background to-secondary">
+    <div className="min-h-screen bg-gradient-to-b from-background to-secondary flex items-center">
       <main className="container max-w-md mx-auto px-4 py-6 space-y-4">
         <Card className="border-2 border-primary/20">
           <CardContent className="pt-6 space-y-6">
